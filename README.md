@@ -28,7 +28,11 @@ In addition, a PAK archive containing all of the source files is available for t
 
 #### Upload the PAK archive
 
-Download `oxrpak.bin` from this repository to your local system, then upload to your NonStop server using binary transfer mode. Logon to TACL on your NonStop server to peform the installation and build steps.
+Download `oxrpak.bin` from this repository to your local system, then upload to your NonStop server using binary transfer mode.
+
+Note: to download the PAK file, click `oxrpak.bin` in the file list to display the file details, then click the *Download* button.
+
+Logon to TACL on your NonStop system to peform the installation and build steps.
 
 #### Unpak the PAK archive
 ```
