@@ -41,7 +41,8 @@ int main(int argc, char** argv, char** env) {
     get_latest_other_rp_def reply_other;
   } reply;
 
-  printf("\nLightWave Client(tm) - Open Exchange Rates API - Test Driver - 19JUL2019\n");
+  printf("\nLightWave Client(tm) - Open Exchange Rates API "
+         "- Test Driver - 19JUL2019\n");
 
   /* Get variables from the environment. These are set by the SETENV macro. */
   if ((pathmon_name = getEnvValue("PATHMON-NAME")) == NULL) {
