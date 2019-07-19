@@ -1,5 +1,5 @@
 # LightWave Client Open Exchange Rates
-This is a sample application that illustrates how to access foreign exchange rates provided by the [Open Exchange Rates REST API](www.openexchangerates.org). The sample application is a C program that retrieves current exchange rates for USD.
+This is a sample application that illustrates how to access foreign exchange rates provided by the [Open Exchange Rates REST API](https://openexchangerates.org). The sample application is a C program that retrieves current exchange rates for USD.
 
 ## Prerequisites
 
