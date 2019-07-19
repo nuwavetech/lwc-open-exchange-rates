@@ -1,0 +1,13 @@
+?tacl macro
+
+== Set runtime environment. Customize this for your environment.
+
+#set #param pathmon-name    $NWOXR
+#set #param server-class    OXRATES
+#set #param lwc-isv         $vol.subvol
+#set #param app-id          f92d------------------------01d8
+#set #param base-currency   USD
+
+  
+
+ 
