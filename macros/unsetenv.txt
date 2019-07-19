@@ -1,0 +1,13 @@
+?tacl macro
+
+== Clear params set by SETENV.
+
+#set #param pathmon-name 
+#set #param server-class 
+#set #param lwc-isv      
+#set #param app-id       
+#set #param base-currency
+
+  
+
+ 
